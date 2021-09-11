@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 78ba73546648e5e4b9f7ee7aebe8e448
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5847544741608421002
+    second: PizzmanWithPizza_0
+  - first:
+      213: 768631477185239458
+    second: PizzmanWithPizza_1
+  - first:
+      213: -8596259004196383949
+    second: PizzmanWithPizza_2
+  - first:
+      213: -1412951171903025239
+    second: PizzmanWithPizza_3
+  - first:
+      213: -8527018693536026345
+    second: PizzmanWithPizza_4
+  - first:
+      213: -874772984601348271
+    second: PizzmanWithPizza_5
+  - first:
+      213: -7016005661361340573
+    second: PizzmanWithPizza_6
+  - first:
+      213: 1671448199882591453
+    second: PizzmanWithPizza_7
+  - first:
+      213: -8050115971267660985
+    second: PizzmanWithPizza_8
+  - first:
+      213: 1517203441969826211
+    second: PizzmanWithPizza_9
+  - first:
+      213: -2011108332654822748
+    second: PizzmanWithPizza_10
+  - first:
+      213: -293954026817152266
+    second: PizzmanWithPizza_11
+  - first:
+      213: -2093189593458292825
+    second: PizzmanWithPizza_12
+  - first:
+      213: 202279761204980194
+    second: PizzmanWithPizza_13
+  - first:
+      213: 5663425891005175896
+    second: PizzmanWithPizza_14
+  - first:
+      213: -9193886464461299563
+    second: PizzmanWithPizza_15
+  - first:
+      213: 2490681987928126716
+    second: PizzmanWithPizza_16
+  - first:
+      213: -1845081244171437746
+    second: PizzmanWithPizza_17
+  - first:
+      213: -3257517863749413141
+    second: PizzmanWithPizza_18
+  - first:
+      213: -2648354678540423330
+    second: PizzmanWithPizza_19
+  - first:
+      213: -4109011156516133498
+    second: PizzmanWithPizza_20
+  - first:
+      213: 3358683278053150541
+    second: PizzmanWithPizza_21
+  - first:
+      213: -3197935054016876376
+    second: PizzmanWithPizza_22
+  - first:
+      213: -3610257687224841579
+    second: PizzmanWithPizza_23
+  - first:
+      213: -9029704654528347056
+    second: PizzmanWithPizza_24
+  - first:
+      213: -2241331377721926921
+    second: PizzmanWithPizza_25
+  - first:
+      213: 5246191459866345172
+    second: PizzmanWithPizza_26
+  - first:
+      213: -7925356893747290237
+    second: PizzmanWithPizza_27
+  - first:
+      213: 6622246527552722619
+    second: PizzmanWithPizza_28
+  - first:
+      213: 3916930849686800010
+    second: PizzmanWithPizza_29
+  - first:
+      213: 7023793163213947210
+    second: PizzmanWithPizza_30
+  - first:
+      213: 4285247184920378104
+    second: PizzmanWithPizza_31
+  - first:
+      213: -8731646644423598361
+    second: PizzmanWithPizza_32
+  - first:
+      213: -5036192457086004424
+    second: PizzmanWithPizza_33
+  - first:
+      213: 8623799138629246059
+    second: PizzmanWithPizza_34
+  - first:
+      213: 2363606555743868549
+    second: PizzmanWithPizza_35
+  - first:
+      213: -7726267386964539565
+    second: PizzmanWithPizza_36
+  - first:
+      213: 7616593200951658219
+    second: PizzmanWithPizza_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PizzmanWithPizza_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790a340a0959dea0800000000000000
+      internalID: -5847544741608421002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95fc0914abaaa00800000000000000
+      internalID: 768631477185239458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331f990bf3f3b880800000000000000
+      internalID: -8596259004196383949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af8fb13560346ce0800000000000000
+      internalID: -1412951171903025239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 58
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117ba22da1f9a980800000000000000
+      internalID: -8527018693536026345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 58
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577ab1fa9e2cd3f0800000000000000
+      internalID: -874772984601348271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 58
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7d6cf50422ae90800000000000000
+      internalID: -7016005661361340573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 58
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcc776384d223710800000000000000
+      internalID: 1671448199882591453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74374ebec2e384090800000000000000
+      internalID: -8050115971267660985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 58
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98c92fd703e0510800000000000000
+      internalID: 1517203441969826211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 58
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaf74370ab1714e0800000000000000
+      internalID: -2011108332654822748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 58
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa944bbe5aabebf0800000000000000
+      internalID: -293954026817152266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_12
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 58
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cf5aa72f73f2e0800000000000000
+      internalID: -2093189593458292825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 58
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9afdffe54aec200800000000000000
+      internalID: 202279761204980194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581d1d77d7889e40800000000000000
+      internalID: 5663425891005175896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 9
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590238cc8f0c86080800000000000000
+      internalID: -9193886464461299563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47be2621ea09220800000000000000
+      internalID: 2490681987928126716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49fc635264f466e0800000000000000
+      internalID: -1845081244171437746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be61ab113c8fac2d0800000000000000
+      internalID: -3257517863749413141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5faa5293772f3bd0800000000000000
+      internalID: -2648354678540423330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852db5af1cd9f6c0800000000000000
+      internalID: -4109011156516133498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f076575a07c9e20800000000000000
+      internalID: 3358683278053150541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0fd820307ae93d0800000000000000
+      internalID: -3197935054016876376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 9
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a075de2c9c5edc0800000000000000
+      internalID: -3610257687224841579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548528457b00b280800000000000000
+      internalID: -9029704654528347056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 9
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa92feacf035e0e0800000000000000
+      internalID: -2241331377721926921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de750556573ec840800000000000000
+      internalID: 5246191459866345172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdffd35e9730290800000000000000
+      internalID: -7925356893747290237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_28
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb618d17122f6eb50800000000000000
+      internalID: 6622246527552722619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c951eadbbb5630800000000000000
+      internalID: 3916930849686800010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 9
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414f251ba6897160800000000000000
+      internalID: 7023793163213947210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 9
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fafbe74c91487b30800000000000000
+      internalID: 4285247184920378104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee56ee93a5f2d680800000000000000
+      internalID: -8731646644423598361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_33
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83313e6a4a9db1ab0800000000000000
+      internalID: -5036192457086004424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd05030a3eda770800000000000000
+      internalID: 8623799138629246059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d5e7b3a73dc020800000000000000
+      internalID: 2363606555743868549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_36
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 9
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570b404fb8c6c490800000000000000
+      internalID: -7726267386964539565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzmanWithPizza_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 9
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6016d692393b960800000000000000
+      internalID: 7616593200951658219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

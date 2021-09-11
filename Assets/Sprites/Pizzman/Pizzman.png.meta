@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 403e5f81ea608bd4698454df621f03c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8940061943010825286
+    second: Pizzman_0
+  - first:
+      213: -573410737422907650
+    second: Pizzman_1
+  - first:
+      213: 7945930693791994769
+    second: Pizzman_2
+  - first:
+      213: -8114932504049580551
+    second: Pizzman_3
+  - first:
+      213: -6731889550572264457
+    second: Pizzman_4
+  - first:
+      213: 2260767296419196372
+    second: Pizzman_5
+  - first:
+      213: 5027356416317712985
+    second: Pizzman_6
+  - first:
+      213: -3459359893877895536
+    second: Pizzman_7
+  - first:
+      213: -8906902807127228184
+    second: Pizzman_8
+  - first:
+      213: -29211300622652275
+    second: Pizzman_9
+  - first:
+      213: -1325340152950026310
+    second: Pizzman_10
+  - first:
+      213: 8871135454142673590
+    second: Pizzman_11
+  - first:
+      213: 4491755608718663369
+    second: Pizzman_12
+  - first:
+      213: -7852947027513507088
+    second: Pizzman_13
+  - first:
+      213: -1053819312871342258
+    second: Pizzman_14
+  - first:
+      213: 4496086099502764715
+    second: Pizzman_15
+  - first:
+      213: 3316525871605661462
+    second: Pizzman_16
+  - first:
+      213: 1835250775166095993
+    second: Pizzman_17
+  - first:
+      213: 6974341311570108791
+    second: Pizzman_18
+  - first:
+      213: -187885746103356561
+    second: Pizzman_19
+  - first:
+      213: -3464754697434920531
+    second: Pizzman_20
+  - first:
+      213: -2766821301376199035
+    second: Pizzman_21
+  - first:
+      213: -8798986505008878969
+    second: Pizzman_22
+  - first:
+      213: 6977339420801737191
+    second: Pizzman_23
+  - first:
+      213: -5496244002571357519
+    second: Pizzman_24
+  - first:
+      213: 8358854914058628504
+    second: Pizzman_25
+  - first:
+      213: 6218526539780854851
+    second: Pizzman_26
+  - first:
+      213: 4913937295661120059
+    second: Pizzman_27
+  - first:
+      213: -1589242374715658182
+    second: Pizzman_28
+  - first:
+      213: 6561533933240583662
+    second: Pizzman_29
+  - first:
+      213: -3334580269174801681
+    second: Pizzman_30
+  - first:
+      213: 3775174769766466734
+    second: Pizzman_31
+  - first:
+      213: 5968686905834380767
+    second: Pizzman_32
+  - first:
+      213: 4616761182737017437
+    second: Pizzman_33
+  - first:
+      213: -60362531552034839
+    second: Pizzman_34
+  - first:
+      213: -1866082046696328233
+    second: Pizzman_35
+  - first:
+      213: -4198179155010287044
+    second: Pizzman_36
+  - first:
+      213: -7577540320825726512
+    second: Pizzman_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pizzman_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644162f78fa711c70800000000000000
+      internalID: 8940061943010825286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6438de8f5da08f0800000000000000
+      internalID: -573410737422907650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193585ddddd954e60800000000000000
+      internalID: 7945930693791994769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f58adfd1e7f16f80800000000000000
+      internalID: -8114932504049580551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e9feee168392a0800000000000000
+      internalID: -6731889550572264457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde2e6c0ebdf5f10800000000000000
+      internalID: 2260767296419196372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae5e94602c4c540800000000000000
+      internalID: 5027356416317712985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecc274182edffc0800000000000000
+      internalID: -3459359893877895536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e080447613546480800000000000000
+      internalID: -8906902807127228184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca5f21a78389ff0800000000000000
+      internalID: -29211300622652275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0ad027227b9de0800000000000000
+      internalID: -1325340152950026310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b23c8ab1ba9c1b70800000000000000
+      internalID: 8871135454142673590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5b838debe55e30800000000000000
+      internalID: 4491755608718663369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20911094ab40390800000000000000
+      internalID: -7852947027513507088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7bd61be41061f0800000000000000
+      internalID: -1053819312871342258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21f687c7e456e30800000000000000
+      internalID: 4496086099502764715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fb27165baa60e20800000000000000
+      internalID: 3316525871605661462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 58
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972198f3bde187910800000000000000
+      internalID: 1835250775166095993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771e772a876d9c060800000000000000
+      internalID: 6974341311570108791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 58
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63762dc8ee746df0800000000000000
+      internalID: -187885746103356561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da98681b5f7baefc0800000000000000
+      internalID: -3464754697434920531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 58
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586dc768fa64a99d0800000000000000
+      internalID: -2766821301376199035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a6d798468b3e580800000000000000
+      internalID: -8798986505008878969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_23
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 9
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a7365c3d74d060800000000000000
+      internalID: 6977339420801737191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fcd3333b69b3b0800000000000000
+      internalID: -5496244002571357519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2e79d14e900470800000000000000
+      internalID: 8358854914058628504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441af5d0f4ac4650800000000000000
+      internalID: 6218526539780854851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3abc6c6fefc13440800000000000000
+      internalID: 4913937295661120059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303319fa70e1f9e0800000000000000
+      internalID: -1589242374715658182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50a7809504f0b50800000000000000
+      internalID: 6561533933240583662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3fcc99e039b1d0800000000000000
+      internalID: -3334580269174801681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea482fc837d146430800000000000000
+      internalID: 3775174769766466734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd98cd0e1905d250800000000000000
+      internalID: 5968686905834380767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2ad5c5d7021040800000000000000
+      internalID: 4616761182737017437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff81de89c892ff0800000000000000
+      internalID: -60362531552034839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 9
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d37ee4f3485a16e0800000000000000
+      internalID: -1866082046696328233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 9
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a892a2d421db5c0800000000000000
+      internalID: -4198179155010287044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pizzman_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 9
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9abf9c93b27d690800000000000000
+      internalID: -7577540320825726512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
