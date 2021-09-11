@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 6114adce96c5c3349b0068d00ac18cdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1524379747699926940
+    second: dushevny_dialog_bez_fona_0
+  - first:
+      213: 4593498032920139469
+    second: dushevny_dialog_bez_fona_1
+  - first:
+      213: -5611158812963977934
+    second: dushevny_dialog_bez_fona_2
+  - first:
+      213: -723450765114699195
+    second: dushevny_dialog_bez_fona_3
+  - first:
+      213: -2570003745226362495
+    second: dushevny_dialog_bez_fona_4
+  - first:
+      213: 5413350519439499885
+    second: dushevny_dialog_bez_fona_5
+  - first:
+      213: 4755775918510186602
+    second: dushevny_dialog_bez_fona_6
+  - first:
+      213: 1159881664373083593
+    second: dushevny_dialog_bez_fona_7
+  - first:
+      213: -5708434912100977904
+    second: dushevny_dialog_bez_fona_8
+  - first:
+      213: -3926989089845956217
+    second: dushevny_dialog_bez_fona_9
+  - first:
+      213: 8003108572154249324
+    second: dushevny_dialog_bez_fona_10
+  - first:
+      213: -9103252549447871866
+    second: dushevny_dialog_bez_fona_11
+  - first:
+      213: -1715622754635584385
+    second: dushevny_dialog_bez_fona_12
+  - first:
+      213: -1802933980148392651
+    second: dushevny_dialog_bez_fona_13
+  - first:
+      213: 2754666161080993246
+    second: dushevny_dialog_bez_fona_14
+  - first:
+      213: -7069305305784984966
+    second: dushevny_dialog_bez_fona_15
+  - first:
+      213: 1225199652606983697
+    second: dushevny_dialog_bez_fona_16
+  - first:
+      213: 1953570498629904115
+    second: dushevny_dialog_bez_fona_17
+  - first:
+      213: -187100446006987574
+    second: dushevny_dialog_bez_fona_18
+  - first:
+      213: 8351455718225230373
+    second: dushevny_dialog_bez_fona_19
+  - first:
+      213: -7108158650529239539
+    second: dushevny_dialog_bez_fona_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972474dd4fa72510800000000000000
+      internalID: 1524379747699926940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc619a0af126fbf30800000000000000
+      internalID: 4593498032920139469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cafee9c82122b0800000000000000
+      internalID: -5611158812963977934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 81
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5429ad4bc59c5f5f0800000000000000
+      internalID: -723450765114699195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181fb5ec533855cd0800000000000000
+      internalID: -2570003745226362495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 119
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622ed3cd95102b40800000000000000
+      internalID: 5413350519439499885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 138
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60282e2009eff140800000000000000
+      internalID: 4755775918510186602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 157
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd427a7a3ab81010800000000000000
+      internalID: 1159881664373083593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01378c821b097c0b0800000000000000
+      internalID: -5708434912100977904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781b5e69a388089c0800000000000000
+      internalID: -3926989089845956217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60432618d0c01f60800000000000000
+      internalID: 8003108572154249324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6829d719900caa180800000000000000
+      internalID: -9103252549447871866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6e55c132e038e0800000000000000
+      internalID: -1715622754635584385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d16cfe811baf6e0800000000000000
+      internalID: -1802933980148392651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58506574a8a3620800000000000000
+      internalID: 2754666161080993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad6e77748c4ed90800000000000000
+      internalID: -7069305305784984966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3298b798c00110800000000000000
+      internalID: 1225199652606983697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a48e940a7c1b10800000000000000
+      internalID: 1953570498629904115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4bf6ab229476df0800000000000000
+      internalID: -187100446006987574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a38325ab456e370800000000000000
+      internalID: 8351455718225230373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dushevny_dialog_bez_fona_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 19
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea5143e5fba5d90800000000000000
+      internalID: -7108158650529239539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

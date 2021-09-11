@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 5d26a2590628ef4479a453d0a2058357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 315292030400615569
+    second: PizzaHomeLVL1_0
+  - first:
+      213: 2954518464115879759
+    second: PizzaHomeLVL1_1
+  - first:
+      213: -1930448367225821424
+    second: PizzaHomeLVL1_2
+  - first:
+      213: -6098944134750411784
+    second: PizzaHomeLVL1_3
+  - first:
+      213: -3055064787291006418
+    second: PizzaHomeLVL1_4
+  - first:
+      213: -4173952302559558287
+    second: PizzaHomeLVL1_5
+  - first:
+      213: -3122921217016554360
+    second: PizzaHomeLVL1_6
+  - first:
+      213: 6425500555524938810
+    second: PizzaHomeLVL1_7
+  - first:
+      213: -5696273039341990524
+    second: PizzaHomeLVL1_8
+  - first:
+      213: -6431456305645998629
+    second: PizzaHomeLVL1_9
+  - first:
+      213: -9014129049896275784
+    second: PizzaHomeLVL1_10
+  - first:
+      213: 7150727309329759382
+    second: PizzaHomeLVL1_11
+  - first:
+      213: 2758887830493320833
+    second: PizzaHomeLVL1_12
+  - first:
+      213: -8576151888404263654
+    second: PizzaHomeLVL1_13
+  - first:
+      213: -5438017460932139660
+    second: PizzaHomeLVL1_14
+  - first:
+      213: 5486290777805106983
+    second: PizzaHomeLVL1_15
+  - first:
+      213: -2414309230593042508
+    second: PizzaHomeLVL1_16
+  - first:
+      213: -1887847942870464006
+    second: PizzaHomeLVL1_17
+  - first:
+      213: -220153237671166632
+    second: PizzaHomeLVL1_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 296
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1945a806e64206400800000000000000
+      internalID: 315292030400615569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 390
+        width: 282
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa5ffa3ee800920800000000000000
+      internalID: 2954518464115879759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 502
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a54e107ba535e0800000000000000
+      internalID: -1930448367225821424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 330
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3ef3f7f923c5ba0800000000000000
+      internalID: -6098944134750411784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a17bb23ca3a95d0800000000000000
+      internalID: -3055064787291006418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758380de742316c0800000000000000
+      internalID: -4173952302559558287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 330
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9236f2b729a4d0800000000000000
+      internalID: -3122921217016554360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c932426b6fb2950800000000000000
+      internalID: 6425500555524938810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc262d9d5c2f0b0800000000000000
+      internalID: -5696273039341990524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 330
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2689b090eeb6a0800000000000000
+      internalID: -6431456305645998629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03765536167e280800000000000000
+      internalID: -9014129049896275784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf8460a9c7c3360800000000000000
+      internalID: 7150727309329759382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 330
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d3b75dd9894620800000000000000
+      internalID: 2758887830493320833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d4edfbb436bf880800000000000000
+      internalID: -8576151888404263654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 330
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a4ce5ee74884b0800000000000000
+      internalID: -5438017460932139660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 330
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f23911568332c40800000000000000
+      internalID: 5486290777805106983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 67
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71e8cdb86ae7ed0800000000000000
+      internalID: -2414309230593042508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 80
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af901475c440dc5e0800000000000000
+      internalID: -1887847942870464006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PizzaHomeLVL1_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 80
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3578fbcbd1fcf0800000000000000
+      internalID: -220153237671166632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
